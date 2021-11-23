@@ -1,4 +1,6 @@
 Hello! I'm Elijah Sallows.
-- I primarily work with C# and Python
-- Learning ASP.Net Core, HTML/CSS/JavaScript, and more.
-- Contact me at elijah.sallows.business@gmail.com or on my LinkedIn! https://www.linkedin.com/in/elijah-sallows/
+- I primarily work with C#
+- Contact me via:
+* Email: elijah.sallows.business@gmail.com 
+* LinkedIn: https://www.linkedin.com/in/elijah-sallows/
+* Upwork: https://www.upwork.com/freelancers/~0162ae3d1fc1832d1a
