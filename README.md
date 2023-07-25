@@ -1,5 +1,5 @@
 Hello! I'm Elijah Sallows.
-- I primarily work with C#, though I enjoy making small scripts and extensions using Python, JS, and other languages.
+- I primarily work with C#, though I enjoy making small scripts and extensions using Python and a little bit of JavaScript.
 
 
 - Contact me via:
